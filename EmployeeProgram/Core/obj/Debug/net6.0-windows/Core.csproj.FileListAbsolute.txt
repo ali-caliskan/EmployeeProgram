@@ -1,0 +1,12 @@
+C:\Users\Ali\source\repos\EmployeeProgram\Core\bin\Debug\net6.0-windows\Core.deps.json
+C:\Users\Ali\source\repos\EmployeeProgram\Core\bin\Debug\net6.0-windows\Core.dll
+C:\Users\Ali\source\repos\EmployeeProgram\Core\bin\Debug\net6.0-windows\Core.pdb
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.AssemblyInfo.cs
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.dll
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\refint\Core.dll
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.pdb
+C:\Users\Ali\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\ref\Core.dll
